@@ -1,0 +1,1 @@
+Sempre trocar o ip da pasta src/config e colocar o ip do dia. Digitar o comando ipconfig no cmd
